@@ -1,5 +1,5 @@
 # Vulkan-Tutorial
-2020-07
+2020년 7월에 진행하였습니다.
 
 https://vulkan-tutorial.com/ 을 참고하여 진행하였습니다.
 
